@@ -1,0 +1,3 @@
+YOLO_MODEL_PATH = "best.pt"      
+RESCIPE = "recipe.csv"
+CLASS_NAMES = ['bay_leaf', 'bell_pepper', 'broccoli', 'cabbage', 'carrot', 'cauliflower', 'chicken', 'chickpeas', 'coriander', 'cucumber', 'egg', 'eggplant', 'fish', 'garlic', 'ginger', 'kumquat', 'lemon', 'long_pepper', 'mutton', 'okra', 'onion', 'pork', 'potato', 'pumpkin', 'radish', 'salt', 'shrimp', 'small_pepper', 'spring_onion', 'tofu', 'tomato', 'turmeric']

@@ -1,0 +1,51 @@
+id,title,cuisine,ingredients,steps,servings,tags
+1,Chicken Curry,Indian,chicken|onion|tomato|garlic|ginger|turmeric|salt|oil|water,"1. Heat oil in a pan. 2. Add chopped onion and sauté until golden. 3. Add garlic and ginger and cook briefly. 4. Add tomato and turmeric, cook until soft. 5. Add chicken and salt, mix well. 6. Add water and simmer until chicken is cooked.",4,non-veg
+2,Vegetable Stir Fry,Chinese,broccoli|carrot|bell_pepper|cabbage|garlic|salt|oil,"1. Heat oil in a wok. 2. Add garlic and sauté lightly. 3. Add vegetables and stir fry on high heat. 4. Season with salt and cook until crisp-tender.",2,vegan
+3,Chickpea Tomato Curry,Indian,chickpeas|onion|tomato|garlic|ginger|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and ginger. 3. Add tomato and turmeric and cook until thick. 4. Add chickpeas and salt. 5. Add water and simmer.",3,vegan
+4,Egg Bhurji,Indian,egg|onion|tomato|garlic|turmeric|salt|oil,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add turmeric and salt. 4. Pour beaten eggs and scramble until cooked.",2,vegetarian
+5,Grilled Fish,Continental,fish|lemon|garlic|salt|oil,"1. Marinate fish with lemon, garlic, and salt. 2. Heat pan with oil. 3. Grill fish on both sides until cooked.",2,non-veg
+6,Aloo Sabzi,Indian,potato|onion|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add turmeric and potatoes. 3. Add salt and water. 4. Cover and cook until potatoes are soft.",3,vegan
+7,Tofu Stir Fry,Chinese,tofu|bell_pepper|spring_onion|garlic|salt|oil,"1. Heat oil and sauté garlic. 2. Add tofu and fry lightly. 3. Add vegetables and salt. 4. Stir fry until done.",2,vegan
+8,Okra Fry,Indian,okra|onion|garlic|salt|oil,"1. Heat oil and sauté onion. 2. Add garlic and okra. 3. Cook until okra is tender and lightly crisp.",2,vegan
+9,Vegetable Soup,Continental,carrot|cabbage|broccoli|onion|salt|water,"1. Boil water with vegetables. 2. Add salt. 3. Simmer until vegetables are soft.",3,vegan
+10,Shrimp Stir Fry,Chinese,shrimp|garlic|bell_pepper|salt|oil,"1. Heat oil and sauté garlic. 2. Add shrimp and cook briefly. 3. Add bell pepper and salt. 4. Stir fry until shrimp is cooked.",2,non-veg
+11,Eggplant Curry,Indian,eggplant|onion|tomato|garlic|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add turmeric and eggplant. 4. Add salt and water. 5. Cook until soft.",3,vegan
+12,Pumpkin Sabzi,Indian,pumpkin|onion|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add pumpkin and turmeric. 3. Add salt and water. 4. Cook until tender.",3,vegan
+13,Cabbage Stir Fry,Indian,cabbage|onion|garlic|salt|oil,"1. Heat oil and sauté onion. 2. Add garlic and cabbage. 3. Cook until soft.",2,vegan
+14,Mutton Curry,Indian,mutton|onion|tomato|garlic|ginger|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and ginger. 3. Add tomato and turmeric. 4. Add mutton and salt. 5. Add water and slow cook.",4,non-veg
+15,Chicken Stir Fry,Chinese,chicken|bell_pepper|garlic|salt|oil,"1. Heat oil and sauté garlic. 2. Add chicken and cook until done. 3. Add bell pepper and salt. 4. Stir fry briefly.",2,non-veg
+16,Radish Curry,Indian,radish|onion|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add radish and turmeric. 3. Add salt and water. 4. Cook until tender.",3,vegan
+17,Tomato Soup,Continental,tomato|garlic|salt|water,"1. Boil tomatoes in water. 2. Blend and return to heat. 3. Add garlic and salt. 4. Simmer briefly.",2,vegan
+18,Fish Curry,Indian,fish|onion|tomato|garlic|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add turmeric. 4. Add fish and salt. 5. Add water and simmer.",3,non-veg
+19,Chickpea Salad,Continental,chickpeas|cucumber|lemon|salt,"1. Mix boiled chickpeas and chopped cucumber. 2. Add lemon juice and salt. 3. Toss well.",2,vegan
+20,Vegetable Omelette,Continental,egg|onion|bell_pepper|salt|oil,"1. Beat eggs with salt. 2. Heat oil and sauté vegetables. 3. Pour eggs and cook until set.",1,vegetarian
+21,Carrot Cabbage Sabzi,Indian,carrot|cabbage|onion|garlic|salt|oil,"1. Heat oil and sauté onion. 2. Add garlic and cook briefly. 3. Add carrot and cabbage. 4. Add salt and cook until tender.",3,vegan
+22,Broccoli Stir Fry,Chinese,broccoli|garlic|salt|oil,"1. Heat oil in pan. 2. Add garlic. 3. Add broccoli and stir fry on high heat. 4. Season with salt.",2,vegan
+23,Cauliflower Curry,Indian,cauliflower|onion|tomato|garlic|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add turmeric. 4. Add cauliflower and salt. 5. Add water and cook until soft.",3,vegan
+24,Chicken Tomato Stew,Continental,chicken|tomato|onion|garlic|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add chicken and salt. 4. Add water and simmer until cooked.",3,non-veg
+25,Vegetable Fried Rice Style,Chinese,carrot|cabbage|spring_onion|garlic|salt|oil,"1. Heat oil and sauté garlic. 2. Add vegetables and stir fry. 3. Add salt and cook until lightly crisp.",2,vegan
+26,Egg Curry,Indian,egg|onion|tomato|garlic|turmeric|salt|oil|water,"1. Boil eggs and set aside. 2. Heat oil and sauté onion. 3. Add garlic and tomato. 4. Add turmeric and salt. 5. Add eggs and simmer.",3,vegetarian
+27,Pumpkin Soup,Continental,pumpkin|onion|garlic|salt|water,"1. Boil pumpkin with onion and garlic. 2. Blend until smooth. 3. Return to heat and add salt.",3,vegan
+28,Fish Stir Fry,Chinese,fish|garlic|spring_onion|salt|oil,"1. Heat oil and sauté garlic. 2. Add fish and cook gently. 3. Add spring onion and salt.",2,non-veg
+29,Potato Tomato Curry,Indian,potato|tomato|onion|garlic|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add turmeric and potatoes. 4. Add salt and water. 5. Cook until potatoes are soft.",3,vegan
+30,Chickpea Stir Fry,Continental,chickpeas|garlic|onion|salt|oil,"1. Heat oil and sauté onion. 2. Add garlic. 3. Add chickpeas and salt. 4. Cook until lightly crisp.",2,vegan
+31,Mixed Vegetable Curry,Indian,carrot|potato|cauliflower|onion|garlic|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and turmeric. 3. Add vegetables and salt. 4. Add water and cook until tender.",4,vegan
+32,Shrimp Curry,Indian,shrimp|onion|tomato|garlic|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add turmeric. 4. Add shrimp and salt. 5. Simmer briefly.",3,non-veg
+33,Cucumber Salad,Continental,cucumber|lemon|salt,"1. Slice cucumber. 2. Add lemon juice and salt. 3. Toss well.",2,vegan
+34,Okra Tomato Curry,Indian,okra|tomato|onion|garlic|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add okra and salt. 4. Add water and cook until tender.",3,vegan
+35,Tofu Curry,Indian,tofu|onion|tomato|garlic|turmeric|salt|oil|water,"1. Heat oil and sauté onion. 2. Add garlic and tomato. 3. Add turmeric and tofu. 4. Add salt and water. 5. Simmer gently.",3,vegan
+36,Chicken Soup,Continental,chicken|onion|garlic|salt|water,"1. Boil chicken with onion and garlic. 2. Add salt. 3. Simmer until chicken is cooked.",3,non-veg
+37,Cabbage Soup,Continental,cabbage|onion|garlic|salt|water,"1. Boil cabbage with onion and garlic. 2. Add salt. 3. Simmer until soft.",3,vegan
+38,Eggplant Stir Fry,Chinese,eggplant|garlic|salt|oil,"1. Heat oil and sauté garlic. 2. Add eggplant. 3. Cook until soft and lightly browned.",2,vegan
+39,Mutton Stew,Continental,mutton|onion|garlic|salt|water,"1. Boil mutton with onion and garlic. 2. Add salt. 3. Cook until tender.",4,non-veg
+40,Vegetable Medley,Continental,broccoli|carrot|bell_pepper|salt|oil,"1. Heat oil. 2. Add vegetables. 3. Stir fry and season with salt.",2,vegan
+41,Fish Tomato Stew,Continental,fish|tomato|onion|garlic|salt|water,"1. Boil tomato, onion, and garlic. 2. Add fish and salt. 3. Simmer gently.",3,non-veg
+42,Potato Stir Fry,Indian,potato|onion|garlic|salt|oil,"1. Heat oil and sauté onion. 2. Add garlic and potatoes. 3. Cook until golden.",3,vegan
+43,Chickpea Soup,Continental,chickpeas|onion|garlic|salt|water,"1. Boil chickpeas with onion and garlic. 2. Add salt. 3. Simmer until thick.",3,vegan
+44,Vegetable Omelette Roll,Continental,egg|onion|carrot|salt|oil,"1. Beat eggs with salt. 2. Sauté vegetables. 3. Pour eggs and cook flat.",1,vegetarian
+45,Cauliflower Stir Fry,Chinese,cauliflower|garlic|salt|oil,"1. Heat oil and sauté garlic. 2. Add cauliflower. 3. Stir fry until cooked.",2,vegan
+46,Chicken Dry Fry,Indian,chicken|onion|garlic|salt|oil,"1. Heat oil and sauté onion. 2. Add garlic and chicken. 3. Cook until dry and done.",3,non-veg
+47,Vegetable Clear Soup,Chinese,carrot|cabbage|spring_onion|salt|water,"1. Boil vegetables in water. 2. Add salt. 3. Garnish with spring onion.",3,vegan
+48,Tofu Stir Fry Indian Style,Indian,tofu|onion|garlic|salt|oil,"1. Heat oil and sauté onion. 2. Add garlic and tofu. 3. Cook until lightly crisp.",2,vegan
+49,Radish Soup,Continental,radish|onion|garlic|salt|water,"1. Boil radish with onion and garlic. 2. Add salt. 3. Simmer until soft.",3,vegan
+50,Shrimp Garlic Fry,Chinese,shrimp|garlic|salt|oil,"1. Heat oil and sauté garlic. 2. Add shrimp and salt. 3. Fry until cooked.",2,non-veg
